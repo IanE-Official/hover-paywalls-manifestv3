@@ -1,0 +1,11 @@
+importScripts("bg_scripts/adblock_scripts/ad_domains.js",
+        "bg_scripts/adblock_scripts/adblock_storage.js",
+        "bg_scripts/adblock_scripts/adblock.js",
+        "bg_scripts/paywall_scripts/paywall_sites.js",
+        "bg_scripts/paywall_scripts/paywall_bypass.js",
+        "bg_scripts/paywall_scripts/paywall_storage.js",
+        "bg_scripts/paywall_scripts/paywall_cookies.js",
+        "bg_scripts/paywall_scripts/paywall_spoof.js",
+        "bg_scripts/paywall_scripts/paywall_SM.js",
+        "bg_scripts/paywall_scripts/paywall_lists.js",
+        "bg_scripts/auto_update.js")
